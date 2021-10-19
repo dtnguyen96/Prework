@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Tippernator Walkthrough](https://giphy.com/gifs/ajKLpu8vB37TBXJgHz.gif)
+![Tippernator Walkthrough](https://giphy.com/gifs/ajKLpu8vB37TBXJgHz)
 
 ## Notes
 
